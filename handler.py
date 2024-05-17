@@ -1,4 +1,4 @@
 text = "Ahoj, toto je můj první projekt s GitHub Pipeline. "
 text2 = "Toto je druhý řádek textu."
 
-print(text + text1)
+print(text + text2)
